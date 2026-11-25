@@ -27,5 +27,5 @@ Assistant Professor of Computer Science at Amity University Bengaluru, now movin
 
 - 💼 LinkedIn: [linkedin.com/in/sathishkumarstk](https://www.linkedin.com/in/sathishkumarstk)
 - 📧 Email: [sathishkumarst25@gmail.com](mailto:sathishkumarst25@gmail.com)
-- 🌐 Portfolio: [dr_sathishkumar.github.io](https://sathishkumar2425.github.io/SathishKumar2425.github.io./)
+- 🌐 Portfolio: [sathishkumar2425.github.io](https://sathishkumar2425.github.io/)
 - 🆔 ORCID: [0000-0001-9374-1980](https://orcid.org/0000-0001-9374-1980)
